@@ -182,8 +182,7 @@ Answer returned to chat UI
 | View | File |
 |---|---|
 | Full workflow canvas | `screenshots/workflow-canvas.png` |
-| Chat interface demo | `screenshots/chat-demo.png` |
-| Pinecone namespace after ingestion | `screenshots/pinecone-namespace.png` |
+
 
 ---
 
