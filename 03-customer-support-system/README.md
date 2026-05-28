@@ -211,13 +211,7 @@ Expected result: Classifier routes to "other" → NoOp → workflow ends, no rep
 
 ---
 
-## 📸 Screenshots
 
-> Add your n8n canvas screenshot to `screenshots/` and update this section.
-
-| View | File |
-|---|---|
-| Full workflow canvas | `screenshots/workflow-canvas.png` |
 
 
 ---
