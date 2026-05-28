@@ -2,7 +2,7 @@
 
 # 🧠 Project 01 — RAG Pipeline & Chatbot
 
-[![n8n Cloud](https://img.shields.io/badge/Platform-n8n%20Cloud-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://app.n8n.cloud)
+[![n8n Cloud](https://img.shields.io/badge/Platform-n8n%20Cloud-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://app.n8n.cloud) 
 [![DeepSeek](https://img.shields.io/badge/LLM-DeepSeek%20v3.2-0066FF?style=for-the-badge)](https://deepseek.com)
 [![OpenAI](https://img.shields.io/badge/Embeddings-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 [![Pinecone](https://img.shields.io/badge/Vector%20DB-Pinecone-00C4A7?style=for-the-badge)](https://pinecone.io)
