@@ -177,7 +177,6 @@ Answer returned to chat UI
 
 ## 📸 Screenshots
 
-> Add your n8n canvas screenshot to `screenshots/` and update this section.
 
 | View | File |
 |---|---|
