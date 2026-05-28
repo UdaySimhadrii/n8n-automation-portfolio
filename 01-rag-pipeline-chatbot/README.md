@@ -181,7 +181,7 @@ Answer returned to chat UI
 
 | View | File |
 |---|---|
-| Full workflow canvas | `screenshots/workflow-canvas.png` |
+| Full workflow canvas | `screenshots/rag.png` |
 
 
 ---
